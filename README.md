@@ -14,3 +14,11 @@ Context compression is crucial for enabling large language models to efficiently
 
 ### Install dependencies
 - pip install -r requirements.txt
+
+## ⚡ DECOR inference
+- bash run_filter.sh
+- bash run_extractor.sh
+
+## 📈 Training data acquisition
+
+## 📊 Model training
