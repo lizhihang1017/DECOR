@@ -20,5 +20,5 @@ Context compression is crucial for enabling large language models to efficiently
 - bash run_extractor.sh
 
 ## 📈 Training data acquisition
+We're refactoring that part of the code! Please wait!
 
-## 📊 Model training
