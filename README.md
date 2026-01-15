@@ -1,9 +1,6 @@
 # Adaptive Context Compression for Enhancing Retrieval-Augmented Generation
 
-Submit anonymously as KSEM 2026.
-Due to the capacity limitations of the warehouse, we are unable to upload the complete model files and training data.
-
-This repository contains the official implementation of the paper **"Adaptive Context Compression for Enhancing Retrieval-Augmented Generation"**. Our proposed DECOR adaptive compresses retrieved contexts to improve the efficiency and effectiveness of Retrieval-Augmented Generation (RAG) systems.
+# Submit anonymously as KSEM 2026.
 
 ## 🚀 Installation
 
