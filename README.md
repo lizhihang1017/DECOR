@@ -1,4 +1,4 @@
-# Submit anonymously as KSEM 2026
+# Submit anonymously as KSEM 2026 ！
 
 # Adaptive Context Compression for Enhancing Retrieval-Augmented Generation
 
